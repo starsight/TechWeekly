@@ -1,0 +1,9 @@
+{
+  "livePreview": true,
+  "vimMode": true,
+  "newLinkFormat": "absolute",
+  "attachmentFolderPath": "posts/2023/images",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "useMarkdownLinks": true
+}
