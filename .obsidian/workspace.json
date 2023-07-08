@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/2023/【第2期】2023-07-01.md",
+                "file": "drafts/xianxian/2023-07-08.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/2023/【第2期】2023-07-01.md",
+                "file": "drafts/xianxian/2023-07-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/2023/【第2期】2023-07-01.md",
+                "file": "drafts/xianxian/2023-07-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/2023/【第2期】2023-07-01.md"
+                "file": "drafts/xianxian/2023-07-08.md"
               }
             }
           }
@@ -150,7 +150,11 @@
   "active": "4ec7c97a698a2758",
   "lastOpenFiles": [
     "posts/2023/【第1期】2023-06-23.md",
+    "drafts/template.md",
+    "drafts/xianxian/2023-07-08.md",
+    "posts/2023/【第3期】2023-07-09.md",
     "posts/2023/【第2期】2023-07-01.md",
+    "drafts/template.md.md",
     "posts/2023/images/Pasted image 20230701230010.png",
     "posts/2023/images/image-20230701180547687.png",
     "posts/2023/images/Pasted image 20230701223307.png",
@@ -158,7 +162,6 @@
     "posts/2023/mages",
     "posts/2023/images/Pasted.md",
     "posts/2023/images/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f436f64656e6e6e6e2f7374617469632f707265766965.jpg",
-    "drafts/template.md.md",
     "posts/2023/【第3期】2023-06-30.md",
     "drafts/xianxian",
     "README.md",
