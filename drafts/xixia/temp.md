@@ -6,11 +6,6 @@
 
 # 有趣的工具
 
-### pubdev.top
-
-在做Flutter开发的同学肯定知道 [pub.dev](https://pub.dev/) 这个网站，那么你知道 [pubdev.top](https://pubdev.top/#/) 吗 ？ [pubdev.top](https://pubdev.top/#/) 这个网站就是通过可视化的方式让我们看到 [pub.dev](https://pub.dev/) 最新的flutter包，在这个网站可以看到那些带图片的包，方便我们快速找到自己想要的组件。
-
-![](https://lifeee-picture-bed.oss-cn-hangzhou.aliyuncs.com/img/202307151218303.png)
 
 ### rustdesk
 
@@ -32,9 +27,6 @@
 
 # 资讯
 
-
-
-- Android 14 Beta 4 版本发布 [Android Developers Blog](https://android-developers.googleblog.com/2023/07/android-14-beta-4.html) ， 除了支持的 Pixel 系列的其他产品外，Beta 4 还可用于 Pixel 平板电脑和 Pixel Fold ， 改善了大屏幕和可折叠设备的体验感。
 
 # 后记
 
