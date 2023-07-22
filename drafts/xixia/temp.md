@@ -4,7 +4,7 @@
 
 [cpp-tbox](https://github.com/cpp-main/cpp-tbox) 是一个基于 Reactor 模式的服务型 **开发框架** 与 **组件库**，旨在让C++开发变得轻松。可以应用在边缘计算、智能硬件、后台服务型软件等等。cpp-tbox开源项目主要贡献人[海卫哥](https://space.bilibili.com/41911277)在哔哩哔哩 出了cpp-tbox 的[入门视频](https://www.bilibili.com/video/BV1dF411X7zr/)。
 
-### [flutterfire](https://github.com/firebase/flutterfire)  
+### ~~[flutterfire](https://github.com/firebase/flutterfire)~~  
 
 [FlutterFire](https://github.com/firebase/flutterfire)是一个由Google和Firebase团队共同维护的Flutter插件，用于在Flutter应用程序中访问Firebase服务。Firebase是一个完全托管的后端服务平台，提供了多种云服务，例如实时数据库、身份验证、云存储、云函数等。  
 
