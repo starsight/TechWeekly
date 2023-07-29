@@ -31,7 +31,7 @@
 
 ![](https://i.imgur.com/xMKtpMo.png)
 
-### Android图床管理软件[PicHoro](https://github.com/Kuingsmile/PicHoro)
+### ~~Android图床管理软件[PicHoro](https://github.com/Kuingsmile/PicHoro)~~
 
 [PicHoro](https://github.com/Kuingsmile/PicHoro) 是一款手机端云存储平台/图床管理和文件上传/下载工具，支持直接管理Webdav，Alist，SSH/SFTP，云服务器，兼容S3 API的平台，腾讯COS，阿里OSS，七牛云，又拍云，兰空图床，Imgur，SM.MS和github。
 
@@ -52,7 +52,7 @@
 
 
 
-### 一款支持全平台的下载器 [gopeed](https://github.com/GopeedLab/gopeed)
+### ~~一款支持全平台的下载器 [gopeed](https://github.com/GopeedLab/gopeed)~~
 
 Gopeed（全称 Go Speed），是一款由`Golang`+`Flutter`开发的高速下载器，支持（HTTP、BitTorrent、Magnet）协议下载，并且支持全平台使用。官网： [https://gopeed.com/zh-CN](https://gopeed.com/zh-CN)  ， Github:[https://github.com/GopeedLab/gopeed](https://github.com/GopeedLab/gopeed)
 ![](https://i.imgur.com/Qb7DxDT.png)
@@ -115,7 +115,7 @@ ChatGLM-6B 是一个开源的、支持中英双语的对话语言模型，基于
 
 
 
-### 中文网字计划 
+### ~~中文网字计划 ~~
 
 [✨中文网字计划-提供便捷实用的全字符集中文渲染方案 (chinese-font.netlify.app)](https://chinese-font.netlify.app/)，将字体托管在云端，方便网页、APP使用，就可以实现APP不需要内置很多字体文件，从而减小APP安装包体积。
 
