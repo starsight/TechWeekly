@@ -103,19 +103,19 @@ Gopeed（全称 Go Speed），是一款由`Golang`+`Flutter`开发的高速下�
 
 [pearOS](https://pearos.xyz/) 是一款高仿 MacOS的Arch Linux系统，支持简体中文。安装教程：https://pearos.xyz/how-to-install
 
-### 开源中英双语的对话语言模型ChatGLM-6B 
+### ~~开源中英双语的对话语言模型ChatGLM-6B~~ 
 
 ChatGLM-6B 是一个开源的、支持中英双语的对话语言模型，基于 [General Language Model (GLM)](https://github.com/THUDM/GLM) 架构，具有 62 亿参数。结合模型量化技术，用户可以在消费级的显卡上进行本地部署（INT4 量化级别下最低只需 6GB 显存）。[Windows部署文档](https://github.com/ZhangErling/ChatGLM-6B/blob/main/deployment_windows.md)。
 
 
 
-### [Spring 中文文档](https://springdoc.cn/) 
+### ~~[Spring 中文文档](https://springdoc.cn/)~~ 
 
 千呼万唤始出来 Spring 中文文档，终于有了。[Spring 中文文档 (springdoc.cn)](https://springdoc.cn/)提供了最新的Spring Boot, Spring Cloud, Spring Security等框架的官方中文文档
 
 
 
-### ~~中文网字计划 ~~
+### ~~~~中文网字计划 ~~~~
 
 [✨中文网字计划-提供便捷实用的全字符集中文渲染方案 (chinese-font.netlify.app)](https://chinese-font.netlify.app/)，将字体托管在云端，方便网页、APP使用，就可以实现APP不需要内置很多字体文件，从而减小APP安装包体积。
 
@@ -148,11 +148,11 @@ ChatGLM-6B 是一个开源的、支持中英双语的对话语言模型，基于
 
 
 
-- [ChatGPT时代程序员生存指南，这四步很关键｜IEEE Spectrum | 量子位 (qbitai.com)](https://www.qbitai.com/2023/07/68989.html)
+- ~~[ChatGPT时代程序员生存指南，这四步很关键｜IEEE Spectrum | 量子位 (qbitai.com)](https://www.qbitai.com/2023/07/68989.html)~~
 
-- Google 调整账户闲置期为2年。所有 Google 产品和服务中的 Google 账号 闲置期上限调整为 2 年。这项变更于今日生效，适用于所有处于闲置状态（连续 2 年无人登录或无人使用）的 Google 帐号。从 2023年12月1日开始，Google 会删除闲置帐号以及其中的所有内容。
+- ~~Google 调整账户闲置期为2年。所有 Google 产品和服务中的 Google 账号 闲置期上限调整为 2 年。这项变更于今日生效，适用于所有处于闲置状态（连续 2 年无人登录或无人使用）的 Google 帐号。从 2023年12月1日开始，Google 会删除闲置帐号以及其中的所有内容。~~
 
-  [闲置 Google 帐号政策 - Google 帐号帮助](https://support.google.com/accounts/answer/12418290)
+  ~~[闲置 Google 帐号政策 - Google 帐号帮助](https://support.google.com/accounts/answer/12418290)~~
 
 - 
 
