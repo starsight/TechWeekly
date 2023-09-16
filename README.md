@@ -11,6 +11,7 @@
 ## 目录
 
 RSS订阅：https://github.com/starsight/TechWeekly/releases.atom
+- [【第13期】2023-09-16](https://github.com/starsight/TechWeekly/releases/tag/%2313)
 - [【第12期】2023-09-09](https://github.com/starsight/TechWeekly/releases/tag/%2312)
 - [【第11期】2023-09-02](https://github.com/starsight/TechWeekly/releases/tag/%2311)
 - [【第10期】2023-08-26](https://github.com/starsight/TechWeekly/releases/tag/%2310)
