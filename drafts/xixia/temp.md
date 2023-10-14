@@ -59,6 +59,75 @@ Gopeed（全称 Go Speed），是一款由`Golang`+`Flutter`开发的高速下�
 
 
 
+## 联想拯救者工具箱 [LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit)
+
+联想拯救者工具箱 Lenovo Legion Toolkit (LLT) 是为联想拯救者系列笔记本打造的轻量化工具箱。可实现原来联想软件如 Lenovo Vantage、Legion Zone、联想电脑管家才可实现的功能。
+
+拯救者工具箱特性：
+
+- 改变诸如性能模式、充电模式等只有通过 Lenovo Vantage、联想电脑管家才能更改的设置。
+
+- 使用并修改自定义模式，包括 2022 款及更新的机型的调节风扇曲线功能。
+
+- 支持调节 Spectrum RGB 键盘、4 分区 RGB键盘和白色背光的键盘。
+
+- 强制休眠独立显卡（仅限英伟达显卡）。
+
+- 查看电池统计数据。
+
+- 下载、更新驱动。
+
+- 通过自动化实现插入/拔出充电器的自动操作。
+
+- 无需卸载即可禁用 Lenovo Vantage、Legion Zone 和 Lenovo Hotkeys 服务。
+
+  开源地址：[https://github.com/BartoszCichecki/LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit)
+
+  
+
+## 支持私有部署的云端存储双链笔记软件 [blossom](https://github.com/blossom-editor/blossom)
+
+一个支持私有部署的云端存储的双链笔记软件 ，你可以将你所有的笔记，图片，个人计划安排保存在自己的服务器中，并在任意设备之间实时同步。Blossom 没有私有协议，只有纯粹的 Markdown。
+
+特性：
+
+- **文章与图片都在你的服务器存储**，不需要再使用任何三方图床，不需要购买任何对象存储
+- 没有任何私有协议**，基于 Markdown 语法，采用约定格式拓展样式。迁移到其他软件可以正常显示。**
+- **多账号权限**，可以和你的朋友一起使用。或者将自己的生活/工作笔记存放在不同账号中
+- **一键导出**，可以一键导出所有文章和图片，并将图片链接转换为图片路径，轻松转为本地笔记。
+- **网页转换**，可以一键将指定或全部文章转换为网页，方便分享。
+- **丰富的功能拓展**，包含日历计划，待办事项清单，一个完善的个人管理工具。
+- **支持 Docker / Docker Compose 部署**。
+- **双链笔记**：内部文章与外部链接引用形成的双链笔记知识网络。
+
+开源地址：[https://github.com/blossom-editor/blossom](https://github.com/blossom-editor/blossom)
+
+
+
+## 在 MacOS 上快速运行 Docker 和 Linux [OrbStack](https://orbstack.dev/)
+
+[OrbStack](https://orbstack.dev/) 是一个增强版的 WSL 和 Docker Desktop 替代品，资源占用率低，速度快，个人用户免费使用，商用需要付费授权。
+
+
+
+
+
+## 保护你的windows右键菜单、资源管理器 [Protect-Windows-Context-Menu](https://github.com/HaujetZhao/Protect-Windows-Context-Menu)
+
+许多第三方软件非常不老实，在安装后，总会在右键菜单、资源管理器中夹带私货，例如：
+
+- 安装百度网盘后，它会在右键菜单中添加「上传到百度网盘」，在资源管理器中添加「百度网盘」
+- 安装 QQ 后，它会在右键菜单添加「发送到百度网盘」
+- 每次启动 OneDrive 它都会在右键菜单添加「移动到 OneDrive」
+
+[Protect-Windows-Context-Menu](https://github.com/HaujetZhao/Protect-Windows-Context-Menu) 可以禁止第三方软件添加右键菜单，修改注册表权限，从而右键菜单和资源管理器就不会有许许多多奇奇怪怪的多余选项。
+
+开源地址：[https://github.com/HaujetZhao/Protect-Windows-Context-Menu](https://github.com/HaujetZhao/Protect-Windows-Context-Menu)
+
+
+
+
+
 # 宝藏信息
 
 ### ~~public-apis~~
@@ -83,7 +152,7 @@ Gopeed（全称 Go Speed），是一款由`Golang`+`Flutter`开发的高速下�
 
 
 
-### [通往AIG之路](https://ywh1bkansf.feishu.cn/wiki/BVmWwpSJGioFyJkfAI3crXWTnyb?table=tblrU3QwceYkyu5Y&view=vewhpVxSzR)
+### ~~[通往AIG之路](https://ywh1bkansf.feishu.cn/wiki/BVmWwpSJGioFyJkfAI3crXWTnyb?table=tblrU3QwceYkyu5Y&view=vewhpVxSzR)~~
 
 [通往AIG之路](https://ywh1bkansf.feishu.cn/wiki/BVmWwpSJGioFyJkfAI3crXWTnyb?table=tblrU3QwceYkyu5Y&view=vewhpVxSzR) 是一个共享的飞书云文档，内容为AI相关的方方面面。包括输入提示词、AI绘画、AI音乐、AI网站、AI插件、AI课程等等。可以找到自己感谢的内容学习下，比如系统学习下提示词。
 ![](https://i.imgur.com/ZQy9ljz.png)
@@ -91,7 +160,7 @@ Gopeed（全称 Go Speed），是一款由`Golang`+`Flutter`开发的高速下�
 
 
 
-### [照夜清的AI小宇宙 —— 一站式 Ai 平台](https://chatgpt-site.zhaoyeqing.cn/#/home) 
+### ~~[照夜清的AI小宇宙 —— 一站式 Ai 平台](https://chatgpt-site.zhaoyeqing.cn/#/home)~~ 
 
 [照夜清的AI小宇宙](https://chatgpt-site.zhaoyeqing.cn/#/home)   是一个GPT的导航网站，收录了各种GPT站点、提示词等。
 
@@ -99,7 +168,7 @@ Gopeed（全称 Go Speed），是一款由`Golang`+`Flutter`开发的高速下�
 
 
 
-### [pearOS](https://pearos.xyz/)
+### ~~[pearOS](https://pearos.xyz/)~~
 
 [pearOS](https://pearos.xyz/) 是一款高仿 MacOS的Arch Linux系统，支持简体中文。安装教程：https://pearos.xyz/how-to-install
 
