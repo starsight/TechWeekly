@@ -18,6 +18,25 @@
 ![](https://i.imgur.com/9gfesV5.png)
 
 
+
+
+
+##  Dart 和 Flutter 中的函数式编程 [fpdart](https://github.com/SandroMaglione/fpdart)
+
+[Fpdart](https://github.com/SandroMaglione/fpdart)是Dart和Flutter中的函数式编程包。fpdart的目标是使每个dart开发人员都能在他的应用程序中学习和使用函数式编程。
+
+开源地址：[https://github.com/SandroMaglione/fpdart](https://github.com/SandroMaglione/fpdart)
+
+教程集合：[Learn Fpdart - Functional Programming in Dart And Flutter (sandromaglione.com)](https://www.sandromaglione.com/course/fpdart-functional-programming-dart-and-flutter)
+
+![](https://raw.githubusercontent.com/SandroMaglione/fpdart/main/resources/screenshots/screenshot_fpdart.png)
+
+
+
+
+
+
+
 # 有趣的工具
 
 
@@ -59,7 +78,7 @@ Gopeed（全称 Go Speed），是一款由`Golang`+`Flutter`开发的高速下�
 
 
 
-## 联想拯救者工具箱 [LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit)
+## ~~联想拯救者工具箱 [LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit)~~
 
 联想拯救者工具箱 Lenovo Legion Toolkit (LLT) 是为联想拯救者系列笔记本打造的轻量化工具箱。可实现原来联想软件如 Lenovo Vantage、Legion Zone、联想电脑管家才可实现的功能。
 
@@ -85,7 +104,7 @@ Gopeed（全称 Go Speed），是一款由`Golang`+`Flutter`开发的高速下�
 
   
 
-## 支持私有部署的云端存储双链笔记软件 [blossom](https://github.com/blossom-editor/blossom)
+## ~~支持私有部署的云端存储双链笔记软件 [blossom](https://github.com/blossom-editor/blossom)~~
 
 一个支持私有部署的云端存储的双链笔记软件 ，你可以将你所有的笔记，图片，个人计划安排保存在自己的服务器中，并在任意设备之间实时同步。Blossom 没有私有协议，只有纯粹的 Markdown。
 
@@ -104,7 +123,7 @@ Gopeed（全称 Go Speed），是一款由`Golang`+`Flutter`开发的高速下�
 
 
 
-## 在 MacOS 上快速运行 Docker 和 Linux [OrbStack](https://orbstack.dev/)
+## ~~在 MacOS 上快速运行 Docker 和 Linux [OrbStack](https://orbstack.dev/)~~
 
 [OrbStack](https://orbstack.dev/) 是一个增强版的 WSL 和 Docker Desktop 替代品，资源占用率低，速度快，个人用户免费使用，商用需要付费授权。
 
@@ -112,7 +131,7 @@ Gopeed（全称 Go Speed），是一款由`Golang`+`Flutter`开发的高速下�
 
 
 
-## 保护你的windows右键菜单、资源管理器 [Protect-Windows-Context-Menu](https://github.com/HaujetZhao/Protect-Windows-Context-Menu)
+## ~~保护你的windows右键菜单、资源管理器 [Protect-Windows-Context-Menu](https://github.com/HaujetZhao/Protect-Windows-Context-Menu)~~
 
 许多第三方软件非常不老实，在安装后，总会在右键菜单、资源管理器中夹带私货，例如：
 
@@ -123,6 +142,19 @@ Gopeed（全称 Go Speed），是一款由`Golang`+`Flutter`开发的高速下�
 [Protect-Windows-Context-Menu](https://github.com/HaujetZhao/Protect-Windows-Context-Menu) 可以禁止第三方软件添加右键菜单，修改注册表权限，从而右键菜单和资源管理器就不会有许许多多奇奇怪怪的多余选项。
 
 开源地址：[https://github.com/HaujetZhao/Protect-Windows-Context-Menu](https://github.com/HaujetZhao/Protect-Windows-Context-Menu)
+
+
+
+## Android多语言代码编辑器 [Squircle-CE 👨‍💻](https://github.com/massivemadness/Squircle-CE)
+
+ [Squircle-CE](https://github.com/massivemadness/Squircle-CE)是一款快速且免费的Android多语言代码编辑器，**Squircle CE** 目前支持使用以下编程语言进行编码：ActionScript、C、C++、C#、CSS、Fortran、Go、Groovy、HTML、Java、JavaScript、Json、Julia、Kotlin、LaTeX、Lisp、 Lua、Markdown、PHP、Python、Ruby、Rust、Shell、Smali、SQL、Toml、TypeScript、Visual Basic、XML 和 YAML。
+
+开源地址：[https://github.com/massivemadness/Squircle-CE](https://github.com/massivemadness/Squircle-CE)
+
+
+![](https://i.imgur.com/pQuvOQJ.png)
+
+
 
 
 
