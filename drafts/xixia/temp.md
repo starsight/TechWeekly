@@ -33,6 +33,36 @@
 
 
 
+## ~~Flutter优秀插件收录~~
+
+[Flutter优秀插件](https://flutter.ducafecat.com/pubs/user-journey) 是由哔哩哔哩up主[猫哥](https://space.bilibili.com/404904528/)维护的一个项目，收录了flutter比较好用的插件包。
+
+在线地址：[https://flutter.ducafecat.com/pubs/user-journey](https://flutter.ducafecat.com/pubs/user-journey)
+
+猫哥哔哩哔哩：[https://space.bilibili.com/404904528/](https://space.bilibili.com/404904528/)
+
+猫哥YouTube：[https://www.youtube.com/@ducafecat](https://www.youtube.com/@ducafecat)
+
+猫哥的博客：[https://ducafecat.com/blog](https://ducafecat.com/blog)
+
+![](https://lifeee-picture-bed.oss-cn-hangzhou.aliyuncs.com/img/202312082059738.png)
+
+
+
+
+
+## ~~macOS  Flutter 组件和主题包 macos_ui~~
+
+[macos_ui](https://github.com/macosui/macos_ui#macoswindow) 实现当前 macOS 样式的 Flutter 组件和主题。
+
+本文介绍了该 macos_ui 包，它提供了实现当前 macOS 设计语言的 Flutter 小部件和主题。它解释了如何使用该包，包括配置窗口、创建侧边栏、使用 SliverToolBar、创建单选按钮以及使用各种 UI 组件（如文本字段、进度圈和级别指示器）。
+
+官网：[https://macosui.dev](https://macosui.dev/)
+
+开源地址：[https://github.com/macosui/macos_ui](https://github.com/macosui/macos_ui)
+
+![](https://lifeee-picture-bed.oss-cn-hangzhou.aliyuncs.com/img/202312082115979.png)
+
 
 
 
@@ -156,10 +186,34 @@ Gopeed（全称 Go Speed），是一款由`Golang`+`Flutter`开发的高速下�
 
 
 
-## 多摸鱼  
+## 
+
+## ~~[多摸鱼 - 全网资讯一站式浏览](https://duomoyu.com/)~~
 
 [多摸鱼 - 全网资讯一站式浏览 (duomoyu.com)](https://duomoyu.com/)是一个在线网站，汇集了各大平台的热榜，比如微博、知乎、V2ex等
 网站：[https://duomoyu.com/](https://duomoyu.com/)
+
+![](https://lifeee-picture-bed.oss-cn-hangzhou.aliyuncs.com/img/202312082106129.png)
+
+
+
+## ~~[今日热榜 ](https://tophub.today/)~~
+
+[今日热榜官网 (tophub.today)](https://tophub.today/)是一个汇聚了各类热门话题和新闻的网站。该平台通过实时更新，呈现用户当前最受关注和讨论的内容，涵盖了社会、科技、娱乐、体育等多个领域。用户可以在今日热榜上一览热门事件，浏览热门话题的相关新闻、评论和讨论，以获取最新、最热的资讯。这个网站的独特之处在于它提供了一个集中展示当下社会关注点的平台，为用户提供了一个便捷的了解时事热点的途径。
+
+网站：https://tophub.today/
+
+APP下载：[https://tophub.today/app](https://tophub.today/app)
+
+![](https://lifeee-picture-bed.oss-cn-hangzhou.aliyuncs.com/img/202312082105481.png)
+
+
+
+## ~~又一个[今日热榜 - 全站热榜 (rebang.today)](https://rebang.today/)？~~
+
+又一个今日热榜，不过似乎上面那个[今日热榜官网 (tophub.today)](https://tophub.today/)是先出现的。
+
+![](https://lifeee-picture-bed.oss-cn-hangzhou.aliyuncs.com/img/202312082108987.png)
 
 
 
@@ -249,19 +303,29 @@ ChatGLM-6B 是一个开源的、支持中英双语的对话语言模型，基于
 
 
 
-手绘线条插画网站 [bon.design](https://bon.design/)
+## [手绘线条插画网站](https://bon.design/)  
 
 [bon.design](https://bon.design/)是一个免费可商用的线条插画素材网站，画风是极简风，类型有很多，运动、建筑、自然、人物等，有png和svg格式下载。
 
 ![](https://i.imgur.com/mYstITf.png)
 
+网址：[bon.design](https://bon.design/)
 
 
-## Poe AI 平台添加了 StableDiffusionXL 图像生成机器人
 
-免费用户每天可以生成 100 张 AI 绘画图片，速度非常快，体验非常好
+## ~~Poe AI 平台添加了 StableDiffusionXL 图像生成机器人~~
+
+Poe AI 平台的用户可以通过与 StableDiffusionXL 互动，探索艺术创作的新境界。无论是生成独特的视觉艺术品，还是探索抽象的图像表达，这一机器人为创作者提供了一个创新和灵感迸发的平台。
+
+免费用户每天可以生成 100 张 AI 绘画图片，速度非常快，体验非常好。
 
 网址：[https://poe.com/](https://poe.com/)
+
+APP or 桌面端下载：[https://poe.com/download](https://poe.com/download)
+
+![](https://lifeee-picture-bed.oss-cn-hangzhou.aliyuncs.com/img/202312082132730.png)
+
+
 
 
 
