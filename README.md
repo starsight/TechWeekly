@@ -6,12 +6,11 @@
 
 期刊分享的内容以大前端基础中高级技术、生产力工具、语言、AI 、系统架构、技术方法论等内容为主，阿里内部和外部的优秀信息源都有可能涉及，刚开始就先不分的太狭隘了。
 
-
-
 ## 目录
 
 RSS订阅：https://github.com/starsight/TechWeekly/releases.atom
 
+- [【第59期】2024-09-13](https://github.com/starsight/TechWeekly/releases/tag/%2359)
 - [【第58期】2024-09-08](https://github.com/starsight/TechWeekly/releases/tag/%2358)
 - [【第57期】2024-09-01](https://github.com/starsight/TechWeekly/releases/tag/%2357)
 - [【第56期】2024-08-27](https://github.com/starsight/TechWeekly/releases/tag/%2356)
@@ -40,9 +39,9 @@ RSS订阅：https://github.com/starsight/TechWeekly/releases.atom
 - [【第33期】2024-03-09](https://github.com/starsight/TechWeekly/releases/tag/%2333)
 - [【第32期】2024-03-03](https://github.com/starsight/TechWeekly/releases/tag/%2332)
 - [【第31期】2024-02-25](https://github.com/starsight/TechWeekly/releases/tag/%2331)
--  [【第30期】2024-02-18](https://github.com/starsight/TechWeekly/releases/tag/%2330)
+- [【第30期】2024-02-18](https://github.com/starsight/TechWeekly/releases/tag/%2330)
 - [【第29期】2024-02-04](https://github.com/starsight/TechWeekly/releases/tag/%2329)
--  [【第28期】2024-01-27](https://github.com/starsight/TechWeekly/releases/tag/%2328)
+- [【第28期】2024-01-27](https://github.com/starsight/TechWeekly/releases/tag/%2328)
 - [【第27期】2024-01-21](https://github.com/starsight/TechWeekly/releases/tag/%2327)
 - [【第26期】2024-01-14](https://github.com/starsight/TechWeekly/releases/tag/%2326)
 - [【第25期】2024-01-07](https://github.com/starsight/TechWeekly/releases/tag/%2325)
@@ -70,3 +69,4 @@ RSS订阅：https://github.com/starsight/TechWeekly/releases.atom
 - [【第3期】2023-07-09](https://github.com/starsight/TechWeekly/releases/tag/%233)
 - [【第2期】2023-07-01](https://github.com/starsight/TechWeekly/releases/tag/%232)
 - [【第1期】2023-06-23](https://github.com/starsight/TechWeekly/releases/tag/%231)
+
