@@ -10,6 +10,7 @@
 
 RSS订阅：https://github.com/starsight/TechWeekly/releases.atom
 
+- [【第66期】2024-11-02](https://github.com/starsight/TechWeekly/releases/tag/%2366)
 - [【第65期】2024-10-25](https://github.com/starsight/TechWeekly/releases/tag/%2365)
 - [【第64期】2024-10-20](https://github.com/starsight/TechWeekly/releases/tag/%2364)
 - [【第63期】2024-10-11](https://github.com/starsight/TechWeekly/releases/tag/%2363)
