@@ -12,6 +12,7 @@ RSS订阅：https://github.com/starsight/TechWeekly/releases.atom
 或
 https://www.lifeee.top//atom.xml
 
+- [【第74期】2025-01-04](https://github.com/starsight/TechWeekly/releases/tag/%2374)
 - [【第73期】2024-12-27](https://github.com/starsight/TechWeekly/releases/tag/%2373)
 - [【第72期】2024-12-22](https://github.com/starsight/TechWeekly/releases/tag/%2372)
 - [【第71期】2024-12-15](https://github.com/starsight/TechWeekly/releases/tag/%2371)
