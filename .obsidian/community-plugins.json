@@ -1,6 +1,6 @@
 [
   "obsidian-local-images",
   "obsidian-git",
-  "obsidian-imgur-plugin",
-  "dataview"
+  "dataview",
+  "obsidian-image-auto-upload-plugin"
 ]
